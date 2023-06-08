@@ -1,0 +1,8 @@
+methods\HTMLReportGenerator.class
+methods\SeleniumOperations.class
+plainTest\UnitTestCase.class
+testRunner\SmokeTest.class
+cucumbermap\Login.class
+plainTest\AmazonTrial.class
+testRunner\RegressionTest.class
+testRunner\Test.class

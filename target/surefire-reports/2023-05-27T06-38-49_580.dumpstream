@@ -1,0 +1,5 @@
+# Created at 2023-05-27T06:38:53.448
+Boot Manifest-JAR contains absolute paths in classpath 'F:\automation support\project workspace\Flipcart\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
